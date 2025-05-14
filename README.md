@@ -18,8 +18,6 @@ Download the dataset from:
 # Files Used
 In the `ml-latest-small.zip` folder dataset there are 4 files named: `movies.csv`, `ratings.csv`, `tags.csv`, `links.csv`. However, for the purpose of this project, I only used the `movies.csv` and `ratings.csv` files
 
-# 
-This project is licensed under All Rights Reserved.
-You may not use, copy, modify, or distribute this work without explicit permission from the author.
+# Project License
 
 See the [LICENSE](LICENSE.md) file for more details.
