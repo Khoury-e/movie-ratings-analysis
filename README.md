@@ -9,6 +9,10 @@ An exploratory data analysis project using the MovieLens dataset to uncover patt
 # Tools Used
 * Python (libraries: pandas, matplotlib)
 * Google Colab
+* Microsoft Power BI
+
+# Microsoft Power BI visulizations
+For the Power BI visulization, kindly install the [Microsoft Power BI app](https://www.microsoft.com/en-us/power-platform/products/power-bi) from the official website of Microsoft. Once installed, download the file named `MovieRatingsAnalysis.pbix` from this repository, and then open it in the Power BI app. Then, load the `merged_data.csv` from `dataset` folder. Finally, you will be able to see all the visualizations
 
 # Dataset
 Download the dataset from:
